@@ -53,32 +53,6 @@ I'm a **BTech AI/ML student** interested in building practical software and AI-p
 
 ---
 
-## 🔭 Current Project
-
-### 🏥 E-Ilaaj
-
-Healthcare-focused project exploring technology-driven healthcare solutions.
-
-**Focus:** `Python` `Web` `APIs` `AI/ML`
-
-<a href="https://github.com/Tushargoyal2025/E-ilaaj">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| 🏥 **E-Ilaaj** | Healthcare technology project | Python • Web • AI/ML |
-| 🏦 **Bank Management System** | Banking management system | C |
-| 👨‍💼 **Employee Management System** | Employee record management | C |
-| 📊 **Class Performance Analyzer** | Student performance analysis | C |
-| 🎯 **Number Guessing Game** | Command-line game | C |
-
----
-
 ## 📚 Currently Learning
 
 **Python** → **NumPy** → **Pandas** → **Matplotlib**  
