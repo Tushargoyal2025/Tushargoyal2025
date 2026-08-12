@@ -79,18 +79,6 @@ Healthcare-focused project exploring technology-driven healthcare solutions.
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=tushargoyal2434&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"
-    width="100%"
-    alt="GitHub Trophies"
-  />
-</p>
-
----
-
 ## 📚 Currently Learning
 
 **Python** → **NumPy** → **Pandas** → **Matplotlib**  
