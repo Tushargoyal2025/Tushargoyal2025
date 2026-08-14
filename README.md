@@ -23,7 +23,7 @@ I'm a **BTech AI/ML student** interested in building practical software and AI-p
 
 ### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,python,java" height="45"/>
+  <img src="https://skillicons.dev/icons?i=c,python" height="45"/>
 </p>
 
 ### 🌐 Web
